@@ -1,2 +1,3 @@
 Hello
-Welcome to Ghana
+Welcome to Git and Github revision session
+Thank you
